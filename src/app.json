@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/tourist/main",
+    "pages/login/main",
+    "pages/addSolitaire/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black"
+  }
+}
